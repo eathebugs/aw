@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- Giải 1 -->
-  <a href="LINK_CUA_BAN_TAI_DAY" target="_blank">
+  <a href="https://startupdanang.vn/chung-ket-cuoc-thi-rung-chuong-web3-lan-toa-tinh-than-doi-moi-khoi-nguon-tri-thuc-so" target="_blank">
     <img src="https://img.shields.io/badge/🥇_Oct_2025-CHAMPION-yellow?style=for-the-badge&logo=bitcoin&logoColor=white" />
     <b>Web3 Knowledge Competition</b> (Tether & Bybit – Da Nang, Vietnam)
   </a>
